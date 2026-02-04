@@ -25,22 +25,6 @@ It allows you to **create, read, update, and delete books** from the database.
 
 ---
 
-## 📁 Project Structure
-
-project/
-│
-├── project/
-│ ├── settings.py
-│ ├── urls.py
-│
-├── Book/
-│ ├── models.py
-│ ├── serializers.py
-│ ├── views.py
-│ ├── urls.py
-│
-├── manage.py
-└── README.md
 
 
 
